@@ -1,0 +1,11 @@
+.Generic{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.Generic.B{
+    background-color: yellow;
+}
+.Generic.A{
+    background-color: black;
+    color: white;
+}
